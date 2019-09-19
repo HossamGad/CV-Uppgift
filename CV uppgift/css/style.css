@@ -1,0 +1,136 @@
+body {
+    margin: 5px;
+    padding: 5px;
+    padding-left: 80px;
+    border-style: double;
+    border-width: 15px;
+    font-size: 16px; 
+    color: #000;
+    background-color: rgb(167, 215, 231);
+}
+.img {
+    border-radius: 8px;
+  }
+  
+a:link { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+}
+ 
+a:visited { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+}
+ 
+a:hover { 
+    text-decoration: underline;
+    color: #669933;
+    font-weight: bold;
+}
+ 
+a:active { 
+    text-decoration: underline;
+    color: #000;
+    font-weight: bold;
+}
+.clear  {
+    float: none;
+    clear: both;
+    margin: 20px 0px 20px 0px;
+}
+ 
+#contact-details .header_1 {
+    float: left;
+    width: 350px;
+    text-align: center;
+    margin: 40px 0px 0px 20px;
+}
+ 
+#contact-details .header_1 img {
+    border: #fff solid 4px;
+    padding: 16px;
+    margin: 10px 0px 0px 0px;
+}
+ 
+#contact-details .header_2 {
+    float: left;
+    width: 570px;
+    margin: 40px 0px 0px 10px;
+}
+#contact-details .header_2 a {
+    font-weight: normal;
+}
+ 
+#contact-details  h1    {
+    margin: 0px 0px 0px 20px;
+    font-size: 52px;
+    font-weight: bold;
+}
+ 
+#contact-details  h3    {
+    margin: 0px 0px 32px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+  
+#contact-details ul.info_1  {
+    list-style: none;
+    margin: 0px 0px 0px -12px;
+    font-size: 18px;
+}
+ 
+#contact-details ul.info_2  {
+    list-style: none;
+    margin: 0px 0px 15px -12px;
+    font-size: 18px;
+}
+ 
+#contact-details li.address {
+    
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+ 
+#contact-details li.phone   {
+    
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+ 
+#contact-details li.email   {
+   
+    background-position: 0px 0px;
+    padding: 0px 0px 12px 40px;
+}
+ 
+#contact-details li.site_url    {
+    background-position: 0px 2px;
+    padding: 0px 0px 12px 40px;
+}
+ 
+h2.top  {
+    margin: 0px; 
+    font-size: 22px;
+    font-weight: normal;
+}
+ 
+h2  {
+    margin: 40px 0px 0px 0px; 
+    font-size: 22px;
+    font-weight: normal;
+}
+dt.top  {
+    margin: 40px 0px 0px 0px; 
+    font-size: 22px;
+    font-weight: bold;
+}
+dt.ut  {
+    margin: 40px 0px 0px 0px; 
+    font-size: 22px;
+    font-weight: bold;
+}
+ 
